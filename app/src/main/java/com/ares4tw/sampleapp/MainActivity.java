@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
         mTextMessage = findViewById(R.id.message);
         BottomNavigationView navigation = findViewById(R.id.navigation);
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
-        Log.i("Log","Test log");
+        Log.i("Log","Test log edited");
     }
 
 }
